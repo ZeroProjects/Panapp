@@ -1,3 +1,6 @@
 [submodule "framework"]
 	path = framework
 	url = git://github.com/panada/Panada.git
+[submodule "protected/Modules/PanappDashboard"]
+	path = protected/Modules/PanappDashboard
+	url = git@github.com:ZeroProjects/PanappDashboard.git
