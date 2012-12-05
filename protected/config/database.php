@@ -6,7 +6,7 @@ return array(
         'driver' => 'mysqli',
         'host' => 'localhost',
         'port' => 3306,
-        'user' => 'dbuser',
+        'user' => 'root',
         'password' => 'dbpass',
         'database' => 'dbname',
         'tablePrefix' => '',
